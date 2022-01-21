@@ -1,4 +1,4 @@
-# Desafio 03 - Trilha NodeJs Rocketseat
+# Desafio 02 - Trabalhando com Middlewares
 [x]Should be able to create a new repository</br>
 [x]Should be able to list the projects<br>
 [x]Should be able to update repository<br>
